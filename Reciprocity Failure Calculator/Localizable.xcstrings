@@ -1,0 +1,1368 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ %@ is already in the list." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@ is already in the list."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ est déjà dans la liste."
+          }
+        }
+      }
+    },
+    "%@ over the metered %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ over the metered %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ par rapport aux %2$@ mesurées"
+          }
+        }
+      }
+    },
+    "%@ over, the nearest setting" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ au-dessus, le réglage le plus proche"
+          }
+        }
+      }
+    },
+    "%@ stop" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ IL"
+          }
+        }
+      }
+    },
+    "%@ stops" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ IL"
+          }
+        }
+      }
+    },
+    "%@ under, the nearest setting" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ en dessous, le réglage le plus proche"
+          }
+        }
+      }
+    },
+    "%@: close the shutter." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ : fermez l'obturateur."
+          }
+        }
+      }
+    },
+    "%lld-point table" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tableau de %lld points"
+          }
+        }
+      }
+    },
+    "+%@ stop" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@ IL"
+          }
+        }
+      }
+    },
+    "+%@ stops" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@ IL"
+          }
+        }
+      }
+    },
+    "1" : {
+      "shouldTranslate" : false
+    },
+    "1.31" : {
+      "shouldTranslate" : false
+    },
+    "About %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À propos de %@"
+          }
+        }
+      }
+    },
+    "Add Film" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un film"
+          }
+        }
+      }
+    },
+    "Add film" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un film"
+          }
+        }
+      }
+    },
+    "Add row" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter une ligne"
+          }
+        }
+      }
+    },
+    "Aperture" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouverture"
+          }
+        }
+      }
+    },
+    "Apertures past f/22 are smaller than most lenses go. Use an ND filter and open up one stop per stop of ND. The flash power stays the same." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Au-delà de f/22, la plupart des objectifs ne ferment plus. Utilisez un filtre ND et ouvrez d'un IL par IL de ND. La puissance du flash ne change pas."
+          }
+        }
+      }
+    },
+    "Applies above" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S'applique au-delà de"
+          }
+        }
+      }
+    },
+    "Applies above (s)" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S'applique au-delà de (s)"
+          }
+        }
+      }
+    },
+    "Back to %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reculez à %@"
+          }
+        }
+      }
+    },
+    "Beyond the manufacturer's data. This is an estimate, so bracket your exposures." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Au-delà des données du fabricant. C'est une estimation, faites un bracketing."
+          }
+        }
+      }
+    },
+    "Black & White" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noir et blanc"
+          }
+        }
+      }
+    },
+    "Brand" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marque"
+          }
+        }
+      }
+    },
+    "Bright sun" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plein soleil"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler"
+          }
+        }
+      }
+    },
+    "Choose a film" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisir un film"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermer"
+          }
+        }
+      }
+    },
+    "Cloudy" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuageux"
+          }
+        }
+      }
+    },
+    "Color Negative" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Négatif couleur"
+          }
+        }
+      }
+    },
+    "Corrected" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corrigée"
+          }
+        }
+      }
+    },
+    "Corrected = metered ^ exponent, the form Ilford publishes." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corrigé = mesuré ^ exposant, la forme publiée par Ilford."
+          }
+        }
+      }
+    },
+    "Corrected exposure" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exposition corrigée"
+          }
+        }
+      }
+    },
+    "Corrected s" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corrigé (s)"
+          }
+        }
+      }
+    },
+    "Correction from" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correction à partir de"
+          }
+        }
+      }
+    },
+    "Couldn't read that time. Try 30, 1/2, 2m30s or 4:00." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temps illisible. Essayez 30, 1/2, 2m30s ou 4:00."
+          }
+        }
+      }
+    },
+    "Couldn't read the film database: %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de lire la base de données des films : %@"
+          }
+        }
+      }
+    },
+    "Couldn't save" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de l'enregistrement"
+          }
+        }
+      }
+    },
+    "Custom" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personnalisé"
+          }
+        }
+      }
+    },
+    "Data" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Données"
+          }
+        }
+      }
+    },
+    "Daylight · Sunny 16" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lumière du jour · Sunny 16"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer"
+          }
+        }
+      }
+    },
+    "Distance" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distance"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminé"
+          }
+        }
+      }
+    },
+    "Each row needs a metered and corrected time, corrected at least as long as metered, with no repeated metered times." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaque ligne demande un temps mesuré et un temps corrigé, le corrigé au moins aussi long que le mesuré, sans temps mesuré en double."
+          }
+        }
+      }
+    },
+    "Enter a film ISO." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisissez la sensibilité ISO du film."
+          }
+        }
+      }
+    },
+    "Enter a subject distance." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisissez la distance du sujet."
+          }
+        }
+      }
+    },
+    "Enter your flash's guide number to get started." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisissez le nombre guide de votre flash pour commencer."
+          }
+        }
+      }
+    },
+    "Every power at %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toutes les puissances à %@"
+          }
+        }
+      }
+    },
+    "Exact" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exact"
+          }
+        }
+      }
+    },
+    "Exactly f/%@ at %@ power" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Exactly f/%1$@ at %2$@ power"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exactement f/%1$@ à la puissance %2$@"
+          }
+        }
+      }
+    },
+    "Exponent" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exposant"
+          }
+        }
+      }
+    },
+    "Exponent should be between 1 and 3, e.g. 1.31." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'exposant doit être compris entre 1 et 3, par ex. 1,31."
+          }
+        }
+      }
+    },
+    "Exposure complete" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exposition terminée"
+          }
+        }
+      }
+    },
+    "Extra" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En plus"
+          }
+        }
+      }
+    },
+    "Fill amount" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intensité du débouchage"
+          }
+        }
+      }
+    },
+    "Fill flash" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flash d'appoint"
+          }
+        }
+      }
+    },
+    "Film" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Film"
+          }
+        }
+      }
+    },
+    "Film ISO" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ISO du film"
+          }
+        }
+      }
+    },
+    "Film or ISO" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Film ou ISO"
+          }
+        }
+      }
+    },
+    "Films" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Films"
+          }
+        }
+      }
+    },
+    "Flash" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flash"
+          }
+        }
+      }
+    },
+    "Flash matches the daylight. Use for backlit subjects or a subject in shade against a sunlit background." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le flash égale la lumière du jour. Pour un sujet à contre-jour, ou à l'ombre devant un arrière-plan ensoleillé."
+          }
+        }
+      }
+    },
+    "Flash options" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Options du flash"
+          }
+        }
+      }
+    },
+    "Flash power" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puissance du flash"
+          }
+        }
+      }
+    },
+    "Flash sync speed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vitesse de synchro flash"
+          }
+        }
+      }
+    },
+    "Flash vs. daylight (stops)" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flash par rapport à la lumière du jour (IL)"
+          }
+        }
+      }
+    },
+    "Formula" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formule"
+          }
+        }
+      }
+    },
+    "From your meter" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D'après votre posemètre"
+          }
+        }
+      }
+    },
+    "Full power" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pleine puissance"
+          }
+        }
+      }
+    },
+    "Guide number" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre guide"
+          }
+        }
+      }
+    },
+    "Guide number at ISO %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre guide à ISO %@"
+          }
+        }
+      }
+    },
+    "Hazy sun" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soleil voilé"
+          }
+        }
+      }
+    },
+    "ISO" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ISO"
+          }
+        }
+      }
+    },
+    "ISO %lld" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ISO %lld"
+          }
+        }
+      }
+    },
+    "ISO (optional)" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ISO (facultatif)"
+          }
+        }
+      }
+    },
+    "ISO should be a whole number." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'ISO doit être un nombre entier."
+          }
+        }
+      }
+    },
+    "Lowest power" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puissance minimale"
+          }
+        }
+      }
+    },
+    "Manual" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manuel"
+          }
+        }
+      }
+    },
+    "Manufacturer data sheet" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiche technique du fabricant"
+          }
+        }
+      }
+    },
+    "Meter the background at your sync speed, then set this aperture." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesurez l'arrière-plan à votre vitesse de synchro, puis réglez cette ouverture."
+          }
+        }
+      }
+    },
+    "Metered" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesurée"
+          }
+        }
+      }
+    },
+    "Metered at 1/%lld" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesuré à 1/%lld"
+          }
+        }
+      }
+    },
+    "Metered exposure" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exposition mesurée"
+          }
+        }
+      }
+    },
+    "Metered s" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesuré (s)"
+          }
+        }
+      }
+    },
+    "Mode" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode"
+          }
+        }
+      }
+    },
+    "Natural fill. Opens up shadows without looking flashed. A good default." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débouchage naturel. Éclaircit les ombres sans effet flash visible. Un bon réglage par défaut."
+          }
+        }
+      }
+    },
+    "Needs %@ less than your lowest setting. Move back to %@ or stop down." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Needs %1$@ less than your lowest setting. Move back to %2$@ or stop down."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il faut %1$@ de moins que votre réglage le plus faible. Reculez à %2$@ ou fermez le diaphragme."
+          }
+        }
+      }
+    },
+    "Needs %@ more than full power. Move within %@, open the aperture, or use faster film." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Needs %1$@ more than full power. Move within %2$@, open the aperture, or use faster film."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il faut %1$@ de plus que la pleine puissance. Rapprochez-vous à moins de %2$@, ouvrez le diaphragme ou utilisez un film plus sensible."
+          }
+        }
+      }
+    },
+    "No correction needed below %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune correction nécessaire en dessous de %@"
+          }
+        }
+      }
+    },
+    "Notes" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notes"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Open shade" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À l'ombre"
+          }
+        }
+      }
+    },
+    "Optional" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Facultatif"
+          }
+        }
+      }
+    },
+    "Overcast" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couvert"
+          }
+        }
+      }
+    },
+    "Pause" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pause"
+          }
+        }
+      }
+    },
+    "Power" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puissance"
+          }
+        }
+      }
+    },
+    "Power steps" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas de puissance"
+          }
+        }
+      }
+    },
+    "Quick reference" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Référence rapide"
+          }
+        }
+      }
+    },
+    "Rated at" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donné pour"
+          }
+        }
+      }
+    },
+    "Reciprocity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réciprocité"
+          }
+        }
+      }
+    },
+    "Reciprocity data" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Données de réciprocité"
+          }
+        }
+      }
+    },
+    "Reset" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réinitialiser"
+          }
+        }
+      }
+    },
+    "Result" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Résultat"
+          }
+        }
+      }
+    },
+    "Resume" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reprendre"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer"
+          }
+        }
+      }
+    },
+    "Setup" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages"
+          }
+        }
+      }
+    },
+    "Slide" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diapositive"
+          }
+        }
+      }
+    },
+    "Smaller than your lens will stop down. Lower the power or move back." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus fermé que ce que permet votre objectif. Baissez la puissance ou reculez."
+          }
+        }
+      }
+    },
+    "Solve for" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calculer"
+          }
+        }
+      }
+    },
+    "Start" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démarrer"
+          }
+        }
+      }
+    },
+    "Start %@ timer" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancer le minuteur de %@"
+          }
+        }
+      }
+    },
+    "Stock" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Émulsion"
+          }
+        }
+      }
+    },
+    "Strong fill. Shadows on the subject are one stop darker than the highlights." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débouchage fort. Les ombres sur le sujet sont un IL plus sombres que les hautes lumières."
+          }
+        }
+      }
+    },
+    "Subject distance" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distance du sujet"
+          }
+        }
+      }
+    },
+    "Subject distance at %@ power and %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subject distance at %1$@ power and %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distance du sujet à la puissance %1$@ et %2$@"
+          }
+        }
+      }
+    },
+    "Subtle fill. Just lifts the shadows." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débouchage léger. Éclaircit juste les ombres."
+          }
+        }
+      }
+    },
+    "Table" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tableau"
+          }
+        }
+      }
+    },
+    "The full-power guide number from your flash's specs, for the zoom setting you use. Most are rated at ISO 100." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le nombre guide à pleine puissance indiqué dans les caractéristiques de votre flash, pour la position de zoom utilisée. La plupart sont donnés pour ISO 100."
+          }
+        }
+      }
+    },
+    "Thirds of a stop" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiers d'IL"
+          }
+        }
+      }
+    },
+    "Times in seconds; 1/2 and 2m30s also work. Start with the longest time that needs no correction (same time on both sides), then add the manufacturer's rows." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temps en secondes ; 1/2 et 2m30s fonctionnent aussi. Commencez par le temps le plus long qui ne demande aucune correction (même temps des deux côtés), puis ajoutez les lignes du fabricant."
+          }
+        }
+      }
+    },
+    "Too close" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trop près"
+          }
+        }
+      }
+    },
+    "Too far" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trop loin"
+          }
+        }
+      }
+    },
+    "Type" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
+          }
+        }
+      }
+    },
+    "Unit" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unité"
+          }
+        }
+      }
+    },
+    "Whole stops" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IL entiers"
+          }
+        }
+      }
+    },
+    "Wider than your lens will open. Raise the power or move closer." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus ouvert que ce que permet votre objectif. Augmentez la puissance ou rapprochez-vous."
+          }
+        }
+      }
+    },
+    "Within %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À moins de %@"
+          }
+        }
+      }
+    },
+    "Your flash" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre flash"
+          }
+        }
+      }
+    },
+    "at %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "à %@"
+          }
+        }
+      }
+    },
+    "e.g. 30, 1/2, 2m30s, 4:00" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex. 30, 1/2, 2m30s, 4:00"
+          }
+        }
+      }
+    },
+    "e.g. 36" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex. 36"
+          }
+        }
+      }
+    },
+    "no change" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "inchangé"
+          }
+        }
+      }
+    },
+    "of %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sur %@"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

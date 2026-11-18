@@ -9,9 +9,27 @@ import SwiftUI
 
 @main
 struct Reciprocity_Failure_CalculatorApp: App {
+    @State private var store = FilmStore()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
+                .environment(store)
+        }
+    }
+}
+
+private struct RootView: View {
+    @AppStorage("selectedTab") private var tab = "reciprocity"
+
+    var body: some View {
+        TabView(selection: $tab) {
+            Tab("Reciprocity", systemImage: "hourglass", value: "reciprocity") {
+                ContentView()
+            }
+            Tab("Flash", systemImage: "bolt", value: "flash") {
+                FlashView()
+            }
         }
     }
 }

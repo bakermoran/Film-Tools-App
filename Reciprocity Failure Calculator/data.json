@@ -1,74 +1,353 @@
 [
   {
     "brand": "Ilford",
-    "stock": "SFX",
+    "stock": "SFX 200",
+    "iso": 200,
+    "type": "bw",
     "factor": 1.43,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
-    "stock": "PanF+",
+    "stock": "Pan F+",
+    "iso": 50,
+    "type": "bw",
     "factor": 1.33,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
-    "stock": "D100",
+    "stock": "Delta 100",
+    "iso": 100,
+    "type": "bw",
     "factor": 1.26,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
-    "stock": "D400",
+    "stock": "Delta 400",
+    "iso": 400,
+    "type": "bw",
     "factor": 1.41,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
-    "stock": "D3200",
+    "stock": "Delta 3200",
+    "iso": 3200,
+    "type": "bw",
     "factor": 1.33,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
     "stock": "FP4+",
+    "iso": 125,
+    "type": "bw",
     "factor": 1.26,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
     "stock": "HP5+",
+    "iso": 400,
+    "type": "bw",
     "factor": 1.31,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
-    "stock": "XP2",
+    "stock": "XP2 Super",
+    "iso": 400,
+    "type": "bw",
     "factor": 1.31,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
     "stock": "Ortho+",
+    "iso": 80,
+    "type": "bw",
     "factor": 1.25,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
-    "stock": "K100",
+    "stock": "Kentmere Pan 100",
+    "iso": 100,
+    "type": "bw",
     "factor": 1.26,
-    "starts_at": 1
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
   },
   {
     "brand": "Ilford",
-    "stock": "K400",
-    "factor": 1.31,
-    "starts_at": 1
+    "stock": "Kentmere Pan 400",
+    "iso": 400,
+    "type": "bw",
+    "factor": 1.3,
+    "starts_at": 1,
+    "source": "https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf"
+  },
+  {
+    "brand": "Kodak",
+    "stock": "Tri-X 400",
+    "iso": 400,
+    "type": "bw",
+    "table": [
+      {
+        "metered": 0.1,
+        "corrected": 0.1
+      },
+      {
+        "metered": 1,
+        "corrected": 2
+      },
+      {
+        "metered": 10,
+        "corrected": 50
+      },
+      {
+        "metered": 100,
+        "corrected": 1200
+      }
+    ],
+    "notes": "Kodak also recommends shortening development: -10% at 1 s, -20% at 10 s, -30% at 100 s. Tri-X 320 uses the same table.",
+    "source": "https://kodakprofessional.com/sites/default/files/wysiwyg/film/f4017_trix_320400.pdf"
+  },
+  {
+    "brand": "Kodak",
+    "stock": "T-Max 100",
+    "iso": 100,
+    "type": "bw",
+    "table": [
+      {
+        "metered": 0.1,
+        "corrected": 0.1
+      },
+      {
+        "metered": 1,
+        "corrected": 1.26
+      },
+      {
+        "metered": 10,
+        "corrected": 15
+      },
+      {
+        "metered": 100,
+        "corrected": 200
+      }
+    ],
+    "notes": "At 1 s Kodak gives +1/3 stop by opening the aperture rather than lengthening the time.",
+    "source": "https://kodakprofessional.com/sites/default/files/wysiwyg/pro/resources/f4016_TMax_100.pdf"
+  },
+  {
+    "brand": "Kodak",
+    "stock": "T-Max 400",
+    "iso": 400,
+    "type": "bw",
+    "table": [
+      {
+        "metered": 1,
+        "corrected": 1
+      },
+      {
+        "metered": 10,
+        "corrected": 12.6
+      },
+      {
+        "metered": 100,
+        "corrected": 300
+      }
+    ],
+    "notes": "At 10 s Kodak gives +1/3 stop by opening the aperture rather than lengthening the time.",
+    "source": "https://kodakprofessional.com/sites/default/files/wysiwyg/pro/resources/f4043_TMax_400.pdf"
   },
   {
     "brand": "Kodak",
     "stock": "Portra 400",
+    "iso": 400,
+    "type": "color",
     "factor": 1.31,
-    "starts_at": 1
+    "starts_at": 1,
+    "notes": "Kodak publishes no compensation beyond 1 s (\"make tests\"). The 1.31 factor is a common estimate, not manufacturer data, so bracket.",
+    "source": "https://kodakprofessional.com/sites/default/files/2025-07/e4050.pdf"
+  },
+  {
+    "brand": "Fujifilm",
+    "stock": "Acros 100 II",
+    "iso": 100,
+    "type": "bw",
+    "table": [
+      {
+        "metered": 120,
+        "corrected": 169.71
+      },
+      {
+        "metered": 1000,
+        "corrected": 1414.21
+      }
+    ],
+    "notes": "No compensation under 120 s; +1/2 stop from 120 to 1000 s. Fujifilm gives no data past 1000 s.",
+    "source": "https://asset.fujifilm.com/www/ca/files/2020-07/fb477bd9803b3c27ab592edcf9f3567c/AF3-0258E_PIB-NEOPAN-100-ACROSII-135-3_data-sheet.pdf"
+  },
+  {
+    "brand": "Fujifilm",
+    "stock": "Velvia 50",
+    "iso": 50,
+    "type": "slide",
+    "table": [
+      {
+        "metered": 1,
+        "corrected": 1
+      },
+      {
+        "metered": 4,
+        "corrected": 5.04
+      },
+      {
+        "metered": 8,
+        "corrected": 11.31
+      },
+      {
+        "metered": 16,
+        "corrected": 25.4
+      },
+      {
+        "metered": 32,
+        "corrected": 64
+      }
+    ],
+    "notes": "Fujifilm also specifies magenta filtration: 5M at 4 s, 7.5M at 8 s, 10M at 16 s, 12.5M at 32 s. Exposures of 64 s are not recommended.",
+    "source": "https://asset.fujifilm.com/master/emea/files/2020-10/a71dda63e2662f012b3b74110794918a/films_velvia-50_datasheet_01.pdf"
+  },
+  {
+    "brand": "Fujifilm",
+    "stock": "Velvia 100",
+    "iso": 100,
+    "type": "slide",
+    "table": [
+      {
+        "metered": 60,
+        "corrected": 60
+      },
+      {
+        "metered": 120,
+        "corrected": 151.19
+      },
+      {
+        "metered": 240,
+        "corrected": 339.41
+      },
+      {
+        "metered": 480,
+        "corrected": 761.95
+      }
+    ],
+    "notes": "Fujifilm also specifies a 2.5M filter from 2 minutes.",
+    "source": "https://asset.fujifilm.com/master/emea/files/2020-10/2f3c7f90a0b0c6e605e84f98b7d489c2/films_velvia-100_datasheet_01.pdf"
+  },
+  {
+    "brand": "Fujifilm",
+    "stock": "Provia 100F",
+    "iso": 100,
+    "type": "slide",
+    "table": [
+      {
+        "metered": 128,
+        "corrected": 128
+      },
+      {
+        "metered": 240,
+        "corrected": 302.38
+      }
+    ],
+    "notes": "Fujifilm specifies a 2.5G filter at 4 minutes. Exposures of 8 minutes are not recommended.",
+    "source": "https://asset.fujifilm.com/master/emea/files/2020-10/2c27854d5609945fbe7e48afc61f815d/films_provia-100f_datasheet_01.pdf"
+  },
+  {
+    "brand": "Foma",
+    "stock": "Fomapan 100",
+    "iso": 100,
+    "type": "bw",
+    "table": [
+      {
+        "metered": 0.5,
+        "corrected": 0.5
+      },
+      {
+        "metered": 1,
+        "corrected": 2
+      },
+      {
+        "metered": 10,
+        "corrected": 80
+      },
+      {
+        "metered": 100,
+        "corrected": 1600
+      }
+    ],
+    "source": "https://www.foma.cz/en/fomapan-100"
+  },
+  {
+    "brand": "Foma",
+    "stock": "Fomapan 200",
+    "iso": 200,
+    "type": "bw",
+    "table": [
+      {
+        "metered": 0.5,
+        "corrected": 0.5
+      },
+      {
+        "metered": 1,
+        "corrected": 3
+      },
+      {
+        "metered": 10,
+        "corrected": 90
+      },
+      {
+        "metered": 100,
+        "corrected": 1800
+      }
+    ],
+    "source": "https://www.foma.cz/en/fomapan-200"
+  },
+  {
+    "brand": "Foma",
+    "stock": "Fomapan 400",
+    "iso": 400,
+    "type": "bw",
+    "table": [
+      {
+        "metered": 0.5,
+        "corrected": 0.5
+      },
+      {
+        "metered": 1,
+        "corrected": 1.5
+      },
+      {
+        "metered": 10,
+        "corrected": 60
+      },
+      {
+        "metered": 100,
+        "corrected": 800
+      }
+    ],
+    "notes": "Uses Foma's time multipliers. At 1 s the datasheet's aperture column says -1 stop, which disagrees with its 1.5x time factor.",
+    "source": "https://www.foma.cz/en/fomapan-400"
   }
 ]
