@@ -406,7 +406,7 @@ private struct FillRow: View {
 
 // MARK: - Shared
 
-private struct ResultText: View {
+struct ResultText: View {
     let value: String
     let detail: LocalizedStringKey?
 
@@ -452,7 +452,7 @@ private struct PowerResultView: View {
     }
 }
 
-private func warning(_ text: LocalizedStringKey) -> some View {
+func warning(_ text: LocalizedStringKey) -> some View {
     Label(text, systemImage: "exclamationmark.triangle")
         .font(.footnote)
         .foregroundStyle(.orange)

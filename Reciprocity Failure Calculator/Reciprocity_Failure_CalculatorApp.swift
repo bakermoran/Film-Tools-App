@@ -27,6 +27,9 @@ private struct RootView: View {
             Tab("Reciprocity", systemImage: "hourglass", value: "reciprocity") {
                 ContentView()
             }
+            Tab("Meter", systemImage: "camera.metering.spot", value: "meter") {
+                MeterView()
+            }
             Tab("Flash", systemImage: "bolt", value: "flash") {
                 FlashView()
             }
